@@ -1,6 +1,4 @@
-# Hello World example
 
-## How to use
 
 ### Using `create-next-app`
 
